@@ -1,6 +1,6 @@
 // If else + if else
 
-let nota = 5
+let nota = 4
 
 if (nota === 5) {
     console.log("Enhorabuena, has obtenido un sobresaliente")
@@ -13,5 +13,5 @@ if (nota === 5) {
 } else if (nota === 1) {
     console.log("No has estudiado nada, trabaja un poquito más para la próxima")
 } else {
-    console.log("Error, introduce una nota entre el 1 y el 5")
+    console.log("Error, introduce una nota entre el 1 y 5")
 }
